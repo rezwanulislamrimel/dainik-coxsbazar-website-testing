@@ -6,7 +6,7 @@ This repository showcases the Comprehensive Manual Testing and QA Documentation 
 - **Project Name:** Dainik Coxsbazar News Portal
 - **Role:** Quality Assurance Engineer
 - **Type:** E2E Manual Testing, UI/UX Verification, & Bug Tracking
-- **Live URL:** [Insert Website Link if available]
+- **Live URL:** [[Insert Website Link if available]](https://www.dainikcoxsbazar.com/)
 
 ## 📋 Testing Scope
 As per the [Test Plan](./Dainik_Coxsbazar_Test_Plan.pdf), the following areas were tested:
