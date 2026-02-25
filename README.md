@@ -1,5 +1,4 @@
-# 📰 Dainik Coxsbazar News Portal - QA Testing Project
-
+Dainik Coxsbazar News Portal: QA Testing  Project
 This repository showcases the Comprehensive Manual Testing and QA Documentation for the **Dainik Coxsbazar News Portal**. The goal of this project was to ensure a stable, user-friendly, and bug-free experience for a high-traffic news website.
 
 ## 🚀 Project Overview
@@ -12,7 +11,7 @@ This repository showcases the Comprehensive Manual Testing and QA Documentation 
 As per the [Test Plan](./Dainik_Coxsbazar_Test_Plan.pdf), the following areas were tested:
 - **Functional Testing:** Search functionality (including Banglish search), News Upload, Categories.
 - **UI/UX Testing:** Layout responsiveness, Bengali font rendering, and Ad placement.
-- **Social Media:** Social share icon verification and SEO meta-data.
+- **Social Media:** Social share icon verification and SEO metadata.
 - **Environment:** Tested across Google Chrome, Mozilla Firefox, and Android devices.
 
 ## 🛠 Tools Used
