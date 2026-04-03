@@ -85,7 +85,7 @@ I followed a structured **STLC (Software Testing Life Cycle)** to cover all crit
 
 ---
 
-## 👤 Author
+# 👤 Author
 
 **Rezwanul Islam**
 *SQA Engineer | Manual & Automation Specialist*
